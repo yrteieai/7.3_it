@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\7.3_it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F7ADF2-F259-42E1-971D-449E13627CF9}|7.3_it\\7.3_it.vcxproj|C:\\Users\\USER\\source\\repos\\7.3_it\\7.3_it\\7.3_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75F7ADF2-F259-42E1-971D-449E13627CF9}|7.3_it\\7.3_it.vcxproj|solutionrelative:7.3_it\\7.3_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73741BEF-12B6-4690-BB05-15C0F3E4A6DB}|UnitTest_7.3it\\UnitTest_7.3it.vcxproj|C:\\Users\\USER\\source\\repos\\7.3_it\\UnitTest_7.3it\\UnitTest_7.3it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73741BEF-12B6-4690-BB05-15C0F3E4A6DB}|UnitTest_7.3it\\UnitTest_7.3it.vcxproj|solutionrelative:UnitTest_7.3it\\UnitTest_7.3it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest_7.3it.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\7.3_it\\UnitTest_7.3it\\UnitTest_7.3it.cpp",
+              "RelativeDocumentMoniker": "UnitTest_7.3it\\UnitTest_7.3it.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\7.3_it\\UnitTest_7.3it\\UnitTest_7.3it.cpp",
+              "RelativeToolTip": "UnitTest_7.3it\\UnitTest_7.3it.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T14:56:34.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7.3_it.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\7.3_it\\7.3_it\\7.3_it.cpp",
+              "RelativeDocumentMoniker": "7.3_it\\7.3_it.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\7.3_it\\7.3_it\\7.3_it.cpp",
+              "RelativeToolTip": "7.3_it\\7.3_it.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T14:03:53.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
